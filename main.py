@@ -2,7 +2,7 @@ from pathlib import Path
 
 """One-line time-machine warning label for a make.fun bounty."""
 
-JOKE = "Draft: time-machine warning label pending final review."
+JOKE = "WARNING: Do not use while standing. The machine will handle that part itself."
 
 OUTPUT_DIR = Path("/output")
 
